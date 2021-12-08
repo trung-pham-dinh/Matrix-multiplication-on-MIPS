@@ -1,0 +1,7 @@
+.vscode/
+test/
+*.exe
+*.jar
+*.zip
+*.docx
+*.pdf
